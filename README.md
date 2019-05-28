@@ -1,4 +1,4 @@
-# sfdx-travisci [![Build Status](https://travis-ci.org/forcedotcom/sfdx-travisci.svg?branch=master)](https://travis-ci.org/forcedotcom/sfdx-travisci)
+[![Build Status](https://dev.azure.com/asishsasiau/asishsasiau/_apis/build/status/asish-sasi-sfdc.sfdx-travisci?branchName=master)](https://dev.azure.com/asishsasiau/asishsasiau/_build/latest?definitionId=1&branchName=master)
 
 For a fully guided walk through of setting up and configuring this sample, see the [Continuous Integration Using Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_travis_ci) Trailhead module.
 
